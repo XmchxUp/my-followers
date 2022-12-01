@@ -124,7 +124,7 @@ func formatUser(u User) string {
 }
 
 func main() {
-	os.Getenv("TOKEN")
+	token = os.Getenv("TOKEN")
 	wg.Add(3)
 	go queryFollower(1)
 	go queryFollowing(1)
