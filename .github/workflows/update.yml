@@ -17,7 +17,7 @@ jobs:
       - name: Generate Image
         run: go run main.go
         env:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN: ${{ secrets.TOKEN }}
       - name: Commit files
         run: |
           git config user.name github-actions
