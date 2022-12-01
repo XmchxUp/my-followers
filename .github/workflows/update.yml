@@ -1,0 +1,27 @@
+name: Update
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 20 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-go@v3
+        with:
+          go-version: 1.18
+      - name: Generate Image
+        run: go main.go
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit files
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add .
+          git commit -m "🤖 Auto update README" -a
+          git push
