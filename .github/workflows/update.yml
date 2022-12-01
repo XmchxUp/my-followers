@@ -15,7 +15,7 @@ jobs:
         with:
           go-version: 1.18
       - name: Generate Image
-        run: go main.go
+        run: go run main.go
         env:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit files
