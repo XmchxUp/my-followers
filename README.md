@@ -1,6 +1,6 @@
 ## XmchxUp
 <img src='https://avatars.githubusercontent.com/u/39235427?v=4' width='120' />
-## Followers <kbd>30</kbd>
+## Followers <kbd>31</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/yetone">
@@ -203,6 +203,13 @@ Sklva111
 <img src="https://avatars.githubusercontent.com/u/94599943?v=4" width="50">
 <br />
 Lik1st
+</a>
+</td>
+<td width='150' align='center'>
+<a href="https://github.com/wang991010">
+<img src="https://avatars.githubusercontent.com/u/98451475?v=4" width="50">
+<br />
+wang991010
 </a>
 </td>
 <td width='150' align='center'>
