@@ -213,7 +213,7 @@ JCSIVO
 </a>
 </td>
 </tr></table>
-## Following <kbd>171</kbd>
+## Following <kbd>170</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/linuxyz">
@@ -1385,20 +1385,13 @@ mukhtarkussaiynbekov
 </a>
 </td>
 <td width='150' align='center'>
-<a href="https://github.com/eecsmap">
-<img src="https://avatars.githubusercontent.com/u/71915887?v=4" width="50">
-<br />
-eecsmap
-</a>
-</td>
-</tr><tr><td width='150' align='center'>
 <a href="https://github.com/El-even-11">
 <img src="https://avatars.githubusercontent.com/u/73071130?v=4" width="50">
 <br />
 El-even-11
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/sunhuiquan">
 <img src="https://avatars.githubusercontent.com/u/73767064?v=4" width="50">
 <br />
