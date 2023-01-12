@@ -122,10 +122,10 @@ ccanyin
 </a>
 </td>
 <td width='150' align='center'>
-<a href="https://github.com/gaspard-met">
+<a href="https://github.com/gaspardc-met">
 <img src="https://avatars.githubusercontent.com/u/78359781?v=4" width="50">
 <br />
-gaspard-met
+gaspardc-met
 </a>
 </td>
 <td width='150' align='center'>
