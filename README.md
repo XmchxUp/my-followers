@@ -1,6 +1,6 @@
 ## XmchxUp
 <img src='https://avatars.githubusercontent.com/u/39235427?v=4' width='120' />
-## Followers <kbd>34</kbd>
+## Followers <kbd>35</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/yetone">
@@ -73,20 +73,27 @@ aghilas-saidj
 </a>
 </td>
 <td width='150' align='center'>
+<a href="https://github.com/PremChapagain">
+<img src="https://avatars.githubusercontent.com/u/47587012?v=4" width="50">
+<br />
+PremChapagain
+</a>
+</td>
+<td width='150' align='center'>
 <a href="https://github.com/TheBoker">
 <img src="https://avatars.githubusercontent.com/u/49220845?v=4" width="50">
 <br />
 TheBoker
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/Crayon112">
 <img src="https://avatars.githubusercontent.com/u/49639886?v=4" width="50">
 <br />
 Crayon112
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/lyatto">
 <img src="https://avatars.githubusercontent.com/u/56401535?v=4" width="50">
 <br />
@@ -107,14 +114,14 @@ Okami0xff666
 rot-will
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/MrBeast0622">
 <img src="https://avatars.githubusercontent.com/u/69328168?v=4" width="50">
 <br />
 MrBeast0622
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/wolfwarrier14">
 <img src="https://avatars.githubusercontent.com/u/74522790?v=4" width="50">
 <br />
@@ -135,14 +142,14 @@ Fontzs
 ccanyin
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/gaspardc-met">
 <img src="https://avatars.githubusercontent.com/u/78359781?v=4" width="50">
 <br />
 gaspardc-met
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/HAMAN23333">
 <img src="https://avatars.githubusercontent.com/u/80085265?v=4" width="50">
 <br />
@@ -163,14 +170,14 @@ ethanflower1903
 guaiguai1030
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/fudeqideado7272">
 <img src="https://avatars.githubusercontent.com/u/90134036?v=4" width="50">
 <br />
 fudeqideado7272
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/skywaz">
 <img src="https://avatars.githubusercontent.com/u/92444989?v=4" width="50">
 <br />
@@ -191,14 +198,14 @@ skyxzc
 TopCodeBeast
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/Sklva111">
 <img src="https://avatars.githubusercontent.com/u/94345676?v=4" width="50">
 <br />
 Sklva111
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/Lik1st">
 <img src="https://avatars.githubusercontent.com/u/94599943?v=4" width="50">
 <br />
@@ -219,14 +226,14 @@ wang991010
 JCSIVO
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/Weldhappy">
 <img src="https://avatars.githubusercontent.com/u/113218208?v=4" width="50">
 <br />
 Weldhappy
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/tesla0622">
 <img src="https://avatars.githubusercontent.com/u/123524605?v=4" width="50">
 <br />
