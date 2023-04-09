@@ -1,6 +1,6 @@
 ## XmchxUp
 <img src='https://avatars.githubusercontent.com/u/39235427?v=4' width='120' />
-## Followers <kbd>40</kbd>
+## Followers <kbd>39</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/yetone">
@@ -255,13 +255,6 @@ Weldhappy
 </a>
 </td>
 </tr><tr><td width='150' align='center'>
-<a href="https://github.com/gojayevmurad">
-<img src="https://avatars.githubusercontent.com/u/113782677?v=4" width="50">
-<br />
-gojayevmurad
-</a>
-</td>
-<td width='150' align='center'>
 <a href="https://github.com/AynurSalimli">
 <img src="https://avatars.githubusercontent.com/u/115205124?v=4" width="50">
 <br />
@@ -283,7 +276,7 @@ John010407
 </a>
 </td>
 </tr></table>
-## Following <kbd>183</kbd>
+## Following <kbd>184</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/linuxyz">
@@ -1546,6 +1539,13 @@ mukhtarkussaiynbekov
 </a>
 </td>
 </tr><tr><td width='150' align='center'>
+<a href="https://github.com/eecsmap">
+<img src="https://avatars.githubusercontent.com/u/71915887?v=4" width="50">
+<br />
+eecsmap
+</a>
+</td>
+<td width='150' align='center'>
 <a href="https://github.com/El-even-11">
 <img src="https://avatars.githubusercontent.com/u/73071130?v=4" width="50">
 <br />
