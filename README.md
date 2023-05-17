@@ -269,7 +269,7 @@ John010407
 </a>
 </td>
 </tr></table>
-## Following <kbd>192</kbd>
+## Following <kbd>193</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/linuxyz">
@@ -1581,13 +1581,20 @@ PKUFlyingPig
 </a>
 </td>
 <td width='150' align='center'>
+<a href="https://github.com/ayamir">
+<img src="https://avatars.githubusercontent.com/u/61657399?v=4" width="50">
+<br />
+ayamir
+</a>
+</td>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/mukhtarkussaiynbekov">
 <img src="https://avatars.githubusercontent.com/u/67886131?v=4" width="50">
 <br />
 mukhtarkussaiynbekov
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/eecsmap">
 <img src="https://avatars.githubusercontent.com/u/71915887?v=4" width="50">
 <br />
@@ -1608,7 +1615,7 @@ El-even-11
 sunhuiquan
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/hardcore-os">
 <img src="https://avatars.githubusercontent.com/u/78024540?v=4" width="50">
 <br />
