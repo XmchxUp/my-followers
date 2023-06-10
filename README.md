@@ -1,6 +1,6 @@
 ## XmchxUp
 <img src='https://avatars.githubusercontent.com/u/39235427?v=4' width='120' />
-## Followers <kbd>39</kbd>
+## Followers <kbd>40</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/yetone">
@@ -259,6 +259,13 @@ Weldhappy
 <img src="https://avatars.githubusercontent.com/u/123524605?v=4" width="50">
 <br />
 tesla0622
+</a>
+</td>
+<td width='150' align='center'>
+<a href="https://github.com/proLove0212">
+<img src="https://avatars.githubusercontent.com/u/125794875?v=4" width="50">
+<br />
+proLove0212
 </a>
 </td>
 <td width='150' align='center'>
