@@ -930,10 +930,10 @@ howardlau1999
 </a>
 </td>
 </tr><tr><td width='150' align='center'>
-<a href="https://github.com/richardchien">
+<a href="https://github.com/stdrc">
 <img src="https://avatars.githubusercontent.com/u/5317095?v=4" width="50">
 <br />
-richardchien
+stdrc
 </a>
 </td>
 <td width='150' align='center'>
