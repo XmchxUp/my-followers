@@ -1,6 +1,6 @@
 ## XmchxUp
 <img src='https://avatars.githubusercontent.com/u/39235427?v=4' width='120' />
-## Followers <kbd>41</kbd>
+## Followers <kbd>42</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/yetone">
@@ -262,6 +262,13 @@ JCSIVO
 </a>
 </td>
 <td width='150' align='center'>
+<a href="https://github.com/ericjyli">
+<img src="https://avatars.githubusercontent.com/u/105771651?v=4" width="50">
+<br />
+ericjyli
+</a>
+</td>
+<td width='150' align='center'>
 <a href="https://github.com/Weldhappy">
 <img src="https://avatars.githubusercontent.com/u/113218208?v=4" width="50">
 <br />
@@ -275,14 +282,14 @@ Weldhappy
 tesla0622
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/John010407">
 <img src="https://avatars.githubusercontent.com/u/127589257?v=4" width="50">
 <br />
 John010407
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/BaixingHouYicheng">
 <img src="https://avatars.githubusercontent.com/u/132631650?v=4" width="50">
 <br />
