@@ -1,6 +1,6 @@
 ## XmchxUp
 <img src='https://avatars.githubusercontent.com/u/39235427?v=4' width='120' />
-## Followers <kbd>48</kbd>
+## Followers <kbd>47</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/yetone">
@@ -108,20 +108,13 @@ Crayon112
 </a>
 </td>
 <td width='150' align='center'>
-<a href="https://github.com/BEPb">
-<img src="https://avatars.githubusercontent.com/u/57312267?v=4" width="50">
-<br />
-BEPb
-</a>
-</td>
-</tr><tr><td width='150' align='center'>
 <a href="https://github.com/Okami0xff666">
 <img src="https://avatars.githubusercontent.com/u/58578838?v=4" width="50">
 <br />
 Okami0xff666
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/TyroneHe-0926">
 <img src="https://avatars.githubusercontent.com/u/59632128?v=4" width="50">
 <br />
@@ -142,14 +135,14 @@ dengyunsheng250
 cargo-youth
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/markulie">
 <img src="https://avatars.githubusercontent.com/u/66760217?v=4" width="50">
 <br />
 markulie
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/rot-will">
 <img src="https://avatars.githubusercontent.com/u/69129795?v=4" width="50">
 <br />
@@ -170,14 +163,14 @@ MrBeast0622
 wolfwarrier14
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/Fontzs">
 <img src="https://avatars.githubusercontent.com/u/75369477?v=4" width="50">
 <br />
 Fontzs
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/ccanyin">
 <img src="https://avatars.githubusercontent.com/u/78330802?v=4" width="50">
 <br />
@@ -198,14 +191,14 @@ gaspardc-met
 HAMAN23333
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/ethanflower1903">
 <img src="https://avatars.githubusercontent.com/u/84658436?v=4" width="50">
 <br />
 ethanflower1903
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/guaiguai1030">
 <img src="https://avatars.githubusercontent.com/u/85300927?v=4" width="50">
 <br />
@@ -226,14 +219,14 @@ lik778
 fudeqideado7272
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/skywaz">
 <img src="https://avatars.githubusercontent.com/u/92444989?v=4" width="50">
 <br />
 skywaz
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/skyxzc">
 <img src="https://avatars.githubusercontent.com/u/92445218?v=4" width="50">
 <br />
@@ -254,14 +247,14 @@ Sk3W3d
 TopCodeBeast
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/Sklva111">
 <img src="https://avatars.githubusercontent.com/u/94345676?v=4" width="50">
 <br />
 Sklva111
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/Lik1st">
 <img src="https://avatars.githubusercontent.com/u/94599943?v=4" width="50">
 <br />
@@ -282,14 +275,14 @@ TopTen1004
 AhmedWithJSDevelopment
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/wang991010">
 <img src="https://avatars.githubusercontent.com/u/98451475?v=4" width="50">
 <br />
 wang991010
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/Asbaharoon">
 <img src="https://avatars.githubusercontent.com/u/98842320?v=4" width="50">
 <br />
@@ -310,14 +303,14 @@ Abdeltifdrarez
 JCSIVO
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/ericjyli">
 <img src="https://avatars.githubusercontent.com/u/105771651?v=4" width="50">
 <br />
 ericjyli
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/tesla0622">
 <img src="https://avatars.githubusercontent.com/u/123524605?v=4" width="50">
 <br />
