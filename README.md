@@ -332,7 +332,7 @@ BaixingHouYicheng
 </a>
 </td>
 </tr></table>
-## Following <kbd>263</kbd>
+## Following <kbd>264</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/jeresig">
@@ -2113,20 +2113,27 @@ pseudoyu
 </a>
 </td>
 <td width='150' align='center'>
+<a href="https://github.com/tjy-gitnub">
+<img src="https://avatars.githubusercontent.com/u/71509955?v=4" width="50">
+<br />
+tjy-gitnub
+</a>
+</td>
+<td width='150' align='center'>
 <a href="https://github.com/eecsmap">
 <img src="https://avatars.githubusercontent.com/u/71915887?v=4" width="50">
 <br />
 eecsmap
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/El-even-11">
 <img src="https://avatars.githubusercontent.com/u/73071130?v=4" width="50">
 <br />
 El-even-11
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/sunhuiquan">
 <img src="https://avatars.githubusercontent.com/u/73767064?v=4" width="50">
 <br />
@@ -2147,14 +2154,14 @@ lengyibai
 hardcore-os
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/AkaraChen">
 <img src="https://avatars.githubusercontent.com/u/85140972?v=4" width="50">
 <br />
 AkaraChen
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/lik778">
 <img src="https://avatars.githubusercontent.com/u/86552605?v=4" width="50">
 <br />
