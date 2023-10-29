@@ -332,7 +332,7 @@ BaixingHouYicheng
 </a>
 </td>
 </tr></table>
-## Following <kbd>288</kbd>
+## Following <kbd>289</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/jeresig">
@@ -2344,6 +2344,13 @@ Sk3W3d
 </a>
 </td>
 <td width='150' align='center'>
+<a href="https://github.com/Kuingsmile">
+<img src="https://avatars.githubusercontent.com/u/96409857?v=4" width="50">
+<br />
+Kuingsmile
+</a>
+</td>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/ericjyli">
 <img src="https://avatars.githubusercontent.com/u/105771651?v=4" width="50">
 <br />
