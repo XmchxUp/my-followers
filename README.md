@@ -2078,10 +2078,10 @@ xxchan
 </a>
 </td>
 <td width='150' align='center'>
-<a href="https://github.com/czhWellOptimized">
+<a href="https://github.com/WellOptimized">
 <img src="https://avatars.githubusercontent.com/u/38347398?v=4" width="50">
 <br />
-czhWellOptimized
+WellOptimized
 </a>
 </td>
 </tr><tr><td width='150' align='center'>
