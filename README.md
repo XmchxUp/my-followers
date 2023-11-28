@@ -1364,17 +1364,17 @@ Ray-Eldath
 </a>
 </td>
 <td width='150' align='center'>
+<a href="https://github.com/callicoder">
+<img src="https://avatars.githubusercontent.com/u/8003566?v=4" width="50">
+<br />
+callicoder
+</a>
+</td>
+<td width='150' align='center'>
 <a href="https://github.com/TheMozg">
 <img src="https://avatars.githubusercontent.com/u/8075849?v=4" width="50">
 <br />
 TheMozg
-</a>
-</td>
-<td width='150' align='center'>
-<a href="https://github.com/theniceboy">
-<img src="https://avatars.githubusercontent.com/u/8187501?v=4" width="50">
-<br />
-theniceboy
 </a>
 </td>
 <td width='150' align='center'>
