@@ -1,6 +1,6 @@
 ## XmchxUp
 <img src='https://avatars.githubusercontent.com/u/39235427?v=4' width='120' />
-## Followers <kbd>50</kbd>
+## Followers <kbd>51</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/yetone">
@@ -350,6 +350,13 @@ John010407
 <img src="https://avatars.githubusercontent.com/u/132631650?v=4" width="50">
 <br />
 BaixingHouYicheng
+</a>
+</td>
+<td width='150' align='center'>
+<a href="https://github.com/AI0228">
+<img src="https://avatars.githubusercontent.com/u/145859755?v=4" width="50">
+<br />
+AI0228
 </a>
 </td>
 </tr></table>
