@@ -2379,10 +2379,10 @@ wonderspig
 </a>
 </td>
 </tr><tr><td width='150' align='center'>
-<a href="https://github.com/zaxioms">
+<a href="https://github.com/aricursion">
 <img src="https://avatars.githubusercontent.com/u/32079362?v=4" width="50">
 <br />
-zaxioms
+aricursion
 </a>
 </td>
 <td width='150' align='center'>
