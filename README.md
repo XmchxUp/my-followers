@@ -367,7 +367,7 @@ AI0228
 </a>
 </td>
 </tr></table>
-## Following <kbd>393</kbd>
+## Following <kbd>394</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/jeresig">
@@ -2981,6 +2981,13 @@ pseudoyu
 </a>
 </td>
 <td width='150' align='center'>
+<a href="https://github.com/H1yame">
+<img src="https://avatars.githubusercontent.com/u/69996135?v=4" width="50">
+<br />
+H1yame
+</a>
+</td>
+<td width='150' align='center'>
 <a href="https://github.com/ading2210">
 <img src="https://avatars.githubusercontent.com/u/71154407?v=4" width="50">
 <br />
@@ -2994,14 +3001,14 @@ ading2210
 tjy-gitnub
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/eecsmap">
 <img src="https://avatars.githubusercontent.com/u/71915887?v=4" width="50">
 <br />
 eecsmap
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/El-even-11">
 <img src="https://avatars.githubusercontent.com/u/73071130?v=4" width="50">
 <br />
@@ -3022,14 +3029,14 @@ sunhuiquan
 lengyibai
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/rust-adventure">
 <img src="https://avatars.githubusercontent.com/u/75100245?v=4" width="50">
 <br />
 rust-adventure
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/hardcore-os">
 <img src="https://avatars.githubusercontent.com/u/78024540?v=4" width="50">
 <br />
@@ -3050,14 +3057,14 @@ vinland-avalon
 dy-xiaodong2022
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/AkaraChen">
 <img src="https://avatars.githubusercontent.com/u/85140972?v=4" width="50">
 <br />
 AkaraChen
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/cubxxw">
 <img src="https://avatars.githubusercontent.com/u/86140903?v=4" width="50">
 <br />
@@ -3078,14 +3085,14 @@ lik778
 xzhseh
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/Sk3W3d">
 <img src="https://avatars.githubusercontent.com/u/92587664?v=4" width="50">
 <br />
 Sk3W3d
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/LintaoAmons">
 <img src="https://avatars.githubusercontent.com/u/95092244?v=4" width="50">
 <br />
@@ -3106,14 +3113,14 @@ Kuingsmile
 RyanFcr
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/GreptimeTeam">
 <img src="https://avatars.githubusercontent.com/u/103400677?v=4" width="50">
 <br />
 GreptimeTeam
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/ericjyli">
 <img src="https://avatars.githubusercontent.com/u/105771651?v=4" width="50">
 <br />
