@@ -374,7 +374,7 @@ AI0228
 </a>
 </td>
 </tr></table>
-## Following <kbd>464</kbd>
+## Following <kbd>465</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/jeresig">
@@ -3622,6 +3622,13 @@ ecodeclub
 <img src="https://avatars.githubusercontent.com/u/126157665?v=4" width="50">
 <br />
 easybangumiorg
+</a>
+</td>
+</tr><tr><td width='150' align='center'>
+<a href="https://github.com/FasterDecoding">
+<img src="https://avatars.githubusercontent.com/u/144572371?v=4" width="50">
+<br />
+FasterDecoding
 </a>
 </td>
 </tr></table>
