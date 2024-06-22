@@ -3723,10 +3723,10 @@ pseudoyu
 </a>
 </td>
 <td width='150' align='center'>
-<a href="https://github.com/H1yame">
+<a href="https://github.com/hiyasame">
 <img src="https://avatars.githubusercontent.com/u/69996135?v=4" width="50">
 <br />
-H1yame
+hiyasame
 </a>
 </td>
 <td width='150' align='center'>
