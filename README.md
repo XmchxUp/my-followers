@@ -115,10 +115,10 @@ PremChapagain
 </a>
 </td>
 </tr><tr><td width='150' align='center'>
-<a href="https://github.com/hanselbless">
+<a href="https://github.com/poseisol">
 <img src="https://avatars.githubusercontent.com/u/48214830?v=4" width="50">
 <br />
-hanselbless
+poseisol
 </a>
 </td>
 <td width='150' align='center'>
