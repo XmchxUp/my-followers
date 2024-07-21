@@ -115,10 +115,10 @@ PremChapagain
 </a>
 </td>
 </tr><tr><td width='150' align='center'>
-<a href="https://github.com/dappsol">
+<a href="https://github.com/s0lb0t">
 <img src="https://avatars.githubusercontent.com/u/48214830?v=4" width="50">
 <br />
-dappsol
+s0lb0t
 </a>
 </td>
 <td width='150' align='center'>
