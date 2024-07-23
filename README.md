@@ -402,7 +402,7 @@ Karan18-hub
 </a>
 </td>
 </tr></table>
-## Following <kbd>565</kbd>
+## Following <kbd>566</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/jeresig">
@@ -4318,13 +4318,20 @@ ihmily
 </a>
 </td>
 <td width='150' align='center'>
+<a href="https://github.com/astral-sh">
+<img src="https://avatars.githubusercontent.com/u/115962839?v=4" width="50">
+<br />
+astral-sh
+</a>
+</td>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/extractus">
 <img src="https://avatars.githubusercontent.com/u/119390214?v=4" width="50">
 <br />
 extractus
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/ecodeclub">
 <img src="https://avatars.githubusercontent.com/u/125858436?v=4" width="50">
 <br />
@@ -4345,14 +4352,14 @@ easybangumiorg
 Love-Pengy
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/FasterDecoding">
 <img src="https://avatars.githubusercontent.com/u/144572371?v=4" width="50">
 <br />
 FasterDecoding
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/easegress-io">
 <img src="https://avatars.githubusercontent.com/u/155644517?v=4" width="50">
 <br />
