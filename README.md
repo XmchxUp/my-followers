@@ -1315,10 +1315,10 @@ torvalds
 </a>
 </td>
 <td width='150' align='center'>
-<a href="https://github.com/yifeikong">
+<a href="https://github.com/iffybug">
 <img src="https://avatars.githubusercontent.com/u/1035487?v=4" width="50">
 <br />
-yifeikong
+iffybug
 </a>
 </td>
 <td width='150' align='center'>
