@@ -458,7 +458,7 @@ Karan18-hub
 </a>
 </td>
 </tr></table>
-## Following <kbd>603</kbd>
+## Following <kbd>604</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/jeresig">
@@ -4647,20 +4647,27 @@ extractus
 </a>
 </td>
 <td width='150' align='center'>
+<a href="https://github.com/PThorpe92">
+<img src="https://avatars.githubusercontent.com/u/121899304?v=4" width="50">
+<br />
+PThorpe92
+</a>
+</td>
+<td width='150' align='center'>
 <a href="https://github.com/ecodeclub">
 <img src="https://avatars.githubusercontent.com/u/125858436?v=4" width="50">
 <br />
 ecodeclub
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/easybangumiorg">
 <img src="https://avatars.githubusercontent.com/u/126157665?v=4" width="50">
 <br />
 easybangumiorg
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/Love-Pengy">
 <img src="https://avatars.githubusercontent.com/u/132213413?v=4" width="50">
 <br />
