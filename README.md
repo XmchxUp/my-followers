@@ -500,7 +500,7 @@ JaaGaaBar
 </a>
 </td>
 </tr></table>
-## Following <kbd>623</kbd>
+## Following <kbd>624</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/jeresig">
@@ -4752,13 +4752,20 @@ joschan21
 </a>
 </td>
 <td width='150' align='center'>
+<a href="https://github.com/0xD4rky">
+<img src="https://avatars.githubusercontent.com/u/103370340?v=4" width="50">
+<br />
+0xD4rky
+</a>
+</td>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/GreptimeTeam">
 <img src="https://avatars.githubusercontent.com/u/103400677?v=4" width="50">
 <br />
 GreptimeTeam
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/ericjyli">
 <img src="https://avatars.githubusercontent.com/u/105771651?v=4" width="50">
 <br />
@@ -4779,14 +4786,14 @@ total-typescript
 kubewharf
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/1Panel-dev">
 <img src="https://avatars.githubusercontent.com/u/109613420?v=4" width="50">
 <br />
 1Panel-dev
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/zmh-program">
 <img src="https://avatars.githubusercontent.com/u/112773885?v=4" width="50">
 <br />
@@ -4807,14 +4814,14 @@ Ellipsis-Labs
 ihmily
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/astral-sh">
 <img src="https://avatars.githubusercontent.com/u/115962839?v=4" width="50">
 <br />
 astral-sh
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/extractus">
 <img src="https://avatars.githubusercontent.com/u/119390214?v=4" width="50">
 <br />
@@ -4835,14 +4842,14 @@ PThorpe92
 ecodeclub
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/easybangumiorg">
 <img src="https://avatars.githubusercontent.com/u/126157665?v=4" width="50">
 <br />
 easybangumiorg
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/Love-Pengy">
 <img src="https://avatars.githubusercontent.com/u/132213413?v=4" width="50">
 <br />
