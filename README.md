@@ -1,6 +1,6 @@
 ## XmchxUp
 <img src='https://avatars.githubusercontent.com/u/39235427?v=4' width='120' />
-## Followers <kbd>72</kbd>
+## Followers <kbd>73</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/midpoint">
@@ -493,13 +493,20 @@ Karan18-hub
 </a>
 </td>
 <td width='150' align='center'>
+<a href="https://github.com/mi6paulino">
+<img src="https://avatars.githubusercontent.com/u/181088958?v=4" width="50">
+<br />
+mi6paulino
+</a>
+</td>
+<td width='150' align='center'>
 <a href="https://github.com/JaaGaaBar">
 <img src="https://avatars.githubusercontent.com/u/184535326?v=4" width="50">
 <br />
 JaaGaaBar
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/Kevindevstar">
 <img src="https://avatars.githubusercontent.com/u/188471110?v=4" width="50">
 <br />
