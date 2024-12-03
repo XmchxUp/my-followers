@@ -1,6 +1,6 @@
 ## XmchxUp
 <img src='https://avatars.githubusercontent.com/u/39235427?v=4' width='120' />
-## Followers <kbd>73</kbd>
+## Followers <kbd>74</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/midpoint">
@@ -472,13 +472,20 @@ seniorvuejsdeveloper
 </a>
 </td>
 <td width='150' align='center'>
+<a href="https://github.com/C-BC">
+<img src="https://avatars.githubusercontent.com/u/148716495?v=4" width="50">
+<br />
+C-BC
+</a>
+</td>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/IntelC-H">
 <img src="https://avatars.githubusercontent.com/u/168459417?v=4" width="50">
 <br />
 IntelC-H
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/jmohan57">
 <img src="https://avatars.githubusercontent.com/u/170043275?v=4" width="50">
 <br />
@@ -499,14 +506,14 @@ Karan18-hub
 mi6paulino
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/JaaGaaBar">
 <img src="https://avatars.githubusercontent.com/u/184535326?v=4" width="50">
 <br />
 JaaGaaBar
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/Kevindevstar">
 <img src="https://avatars.githubusercontent.com/u/188471110?v=4" width="50">
 <br />
