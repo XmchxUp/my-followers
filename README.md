@@ -1,6 +1,6 @@
 ## XmchxUp
 <img src='https://avatars.githubusercontent.com/u/39235427?v=4' width='120' />
-## Followers <kbd>81</kbd>
+## Followers <kbd>82</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/johndpope">
@@ -500,13 +500,20 @@ BaixingHouYicheng
 </a>
 </td>
 <td width='150' align='center'>
+<a href="https://github.com/Aalikazone">
+<img src="https://avatars.githubusercontent.com/u/140471488?v=4" width="50">
+<br />
+Aalikazone
+</a>
+</td>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/samarjitsahoo">
 <img src="https://avatars.githubusercontent.com/u/145245473?v=4" width="50">
 <br />
 samarjitsahoo
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/AI0228">
 <img src="https://avatars.githubusercontent.com/u/145859755?v=4" width="50">
 <br />
@@ -527,14 +534,14 @@ seniorvuejsdeveloper
 C-BP
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/IntelC-H">
 <img src="https://avatars.githubusercontent.com/u/168459417?v=4" width="50">
 <br />
 IntelC-H
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/jmohan57">
 <img src="https://avatars.githubusercontent.com/u/170043275?v=4" width="50">
 <br />
@@ -555,14 +562,14 @@ Karan18-hub
 mi6paulino
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/JaaGaaBar">
 <img src="https://avatars.githubusercontent.com/u/184535326?v=4" width="50">
 <br />
 JaaGaaBar
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/MdShawonForazi">
 <img src="https://avatars.githubusercontent.com/u/185961339?v=4" width="50">
 <br />
@@ -570,7 +577,7 @@ MdShawonForazi
 </a>
 </td>
 </tr></table>
-## Following <kbd>726</kbd>
+## Following <kbd>727</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/codahale">
@@ -5652,6 +5659,13 @@ FasterDecoding
 <img src="https://avatars.githubusercontent.com/u/155644517?v=4" width="50">
 <br />
 easegress-io
+</a>
+</td>
+<td width='150' align='center'>
+<a href="https://github.com/trifectatechfoundation">
+<img src="https://avatars.githubusercontent.com/u/172280662?v=4" width="50">
+<br />
+trifectatechfoundation
 </a>
 </td>
 </tr></table>
