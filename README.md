@@ -1,6 +1,6 @@
 ## XmchxUp
 <img src='https://avatars.githubusercontent.com/u/39235427?v=4' width='120' />
-## Followers <kbd>84</kbd>
+## Followers <kbd>86</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/johndpope">
@@ -542,6 +542,13 @@ C-BP
 </a>
 </td>
 <td width='150' align='center'>
+<a href="https://github.com/psemicol">
+<img src="https://avatars.githubusercontent.com/u/154842909?v=4" width="50">
+<br />
+psemicol
+</a>
+</td>
+<td width='150' align='center'>
 <a href="https://github.com/IntelC-H">
 <img src="https://avatars.githubusercontent.com/u/168459417?v=4" width="50">
 <br />
@@ -555,14 +562,14 @@ IntelC-H
 jmohan57
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/Karan18-hub">
 <img src="https://avatars.githubusercontent.com/u/172292187?v=4" width="50">
 <br />
 Karan18-hub
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/mi6paulino">
 <img src="https://avatars.githubusercontent.com/u/181088958?v=4" width="50">
 <br />
@@ -581,6 +588,13 @@ JaaGaaBar
 <img src="https://avatars.githubusercontent.com/u/185961339?v=4" width="50">
 <br />
 MdShawonForazi
+</a>
+</td>
+</tr><tr><td width='150' align='center'>
+<a href="https://github.com/AI4Networking">
+<img src="https://avatars.githubusercontent.com/u/202362359?v=4" width="50">
+<br />
+AI4Networking
 </a>
 </td>
 <td width='150' align='center'>
