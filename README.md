@@ -1,6 +1,6 @@
 ## XmchxUp
 <img src='https://avatars.githubusercontent.com/u/39235427?v=4' width='120' />
-## Followers <kbd>84</kbd>
+## Followers <kbd>86</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/johndpope">
@@ -479,6 +479,13 @@ dafiliks
 </a>
 </td>
 </tr><tr><td width='150' align='center'>
+<a href="https://github.com/isyuricunha">
+<img src="https://avatars.githubusercontent.com/u/115634315?v=4" width="50">
+<br />
+isyuricunha
+</a>
+</td>
+<td width='150' align='center'>
 <a href="https://github.com/GreyyDaze">
 <img src="https://avatars.githubusercontent.com/u/117322834?v=4" width="50">
 <br />
@@ -499,14 +506,14 @@ tesla0622
 RamonLarcherRibeiro
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/John010407">
 <img src="https://avatars.githubusercontent.com/u/127589257?v=4" width="50">
 <br />
 John010407
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/BaixingHouYicheng">
 <img src="https://avatars.githubusercontent.com/u/132631650?v=4" width="50">
 <br />
@@ -527,14 +534,14 @@ Aalikazone
 samarjitsahoo
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/AI0228">
 <img src="https://avatars.githubusercontent.com/u/145859755?v=4" width="50">
 <br />
 AI0228
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/seniorvuejsdeveloper">
 <img src="https://avatars.githubusercontent.com/u/147451557?v=4" width="50">
 <br />
@@ -555,14 +562,14 @@ C-BP
 IntelC-H
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/jmohan57">
 <img src="https://avatars.githubusercontent.com/u/170043275?v=4" width="50">
 <br />
 jmohan57
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/Karan18-hub">
 <img src="https://avatars.githubusercontent.com/u/172292187?v=4" width="50">
 <br />
@@ -581,6 +588,13 @@ mi6paulino
 <img src="https://avatars.githubusercontent.com/u/185961339?v=4" width="50">
 <br />
 MdShawonForazi
+</a>
+</td>
+</tr><tr><td width='150' align='center'>
+<a href="https://github.com/filedonkey">
+<img src="https://avatars.githubusercontent.com/u/206841003?v=4" width="50">
+<br />
+filedonkey
 </a>
 </td>
 <td width='150' align='center'>
