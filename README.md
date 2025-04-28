@@ -1,6 +1,6 @@
 ## XmchxUp
 <img src='https://avatars.githubusercontent.com/u/39235427?v=4' width='120' />
-## Followers <kbd>85</kbd>
+## Followers <kbd>84</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/johndpope">
@@ -584,13 +584,6 @@ MdShawonForazi
 </a>
 </td>
 <td width='150' align='center'>
-<a href="https://github.com/filedonkey">
-<img src="https://avatars.githubusercontent.com/u/206841003?v=4" width="50">
-<br />
-filedonkey
-</a>
-</td>
-</tr><tr><td width='150' align='center'>
 <a href="https://github.com/nelbetancur">
 <img src="https://avatars.githubusercontent.com/u/207216445?v=4" width="50">
 <br />
