@@ -192,10 +192,10 @@ ijagjeet
 </a>
 </td>
 <td width='150' align='center'>
-<a href="https://github.com/aghilas-saidj">
+<a href="https://github.com/aghi-x">
 <img src="https://avatars.githubusercontent.com/u/46354441?v=4" width="50">
 <br />
-aghilas-saidj
+aghi-x
 </a>
 </td>
 </tr><tr><td width='150' align='center'>
