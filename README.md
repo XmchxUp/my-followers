@@ -1,6 +1,6 @@
 ## XmchxUp
 <img src='https://avatars.githubusercontent.com/u/39235427?v=4' width='120' />
-## Followers <kbd>84</kbd>
+## Followers <kbd>83</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/johndpope">
@@ -444,20 +444,13 @@ Asbaharoon
 </a>
 </td>
 <td width='150' align='center'>
-<a href="https://github.com/mahdi-eth">
-<img src="https://avatars.githubusercontent.com/u/99660553?v=4" width="50">
-<br />
-mahdi-eth
-</a>
-</td>
-</tr><tr><td width='150' align='center'>
 <a href="https://github.com/Abdeltifdrarez">
 <img src="https://avatars.githubusercontent.com/u/102257553?v=4" width="50">
 <br />
 Abdeltifdrarez
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/JCSIVO">
 <img src="https://avatars.githubusercontent.com/u/104387283?v=4" width="50">
 <br />
@@ -478,14 +471,14 @@ ericjyli
 dafiliks
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/GreyyDaze">
 <img src="https://avatars.githubusercontent.com/u/117322834?v=4" width="50">
 <br />
 GreyyDaze
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/tesla0622">
 <img src="https://avatars.githubusercontent.com/u/123524605?v=4" width="50">
 <br />
@@ -506,14 +499,14 @@ RamonLarcherRibeiro
 John010407
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/BaixingHouYicheng">
 <img src="https://avatars.githubusercontent.com/u/132631650?v=4" width="50">
 <br />
 BaixingHouYicheng
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/Aalikazone">
 <img src="https://avatars.githubusercontent.com/u/140471488?v=4" width="50">
 <br />
@@ -534,14 +527,14 @@ AI0228
 seniorvuejsdeveloper
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/C-BP">
 <img src="https://avatars.githubusercontent.com/u/148716495?v=4" width="50">
 <br />
 C-BP
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/yyle88">
 <img src="https://avatars.githubusercontent.com/u/162403837?v=4" width="50">
 <br />
@@ -562,14 +555,14 @@ IntelC-H
 jmohan57
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/Karan18-hub">
 <img src="https://avatars.githubusercontent.com/u/172292187?v=4" width="50">
 <br />
 Karan18-hub
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/mi6paulino">
 <img src="https://avatars.githubusercontent.com/u/181088958?v=4" width="50">
 <br />
@@ -591,7 +584,7 @@ nelbetancur
 </a>
 </td>
 </tr></table>
-## Following <kbd>806</kbd>
+## Following <kbd>807</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/codahale">
@@ -6061,6 +6054,13 @@ komora-io
 </a>
 </td>
 <td width='150' align='center'>
+<a href="https://github.com/tensorchord">
+<img src="https://avatars.githubusercontent.com/u/100543303?v=4" width="50">
+<br />
+tensorchord
+</a>
+</td>
+<td width='150' align='center'>
 <a href="https://github.com/pocketbase">
 <img src="https://avatars.githubusercontent.com/u/101000011?v=4" width="50">
 <br />
@@ -6074,14 +6074,14 @@ pocketbase
 joschan21
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/0xD4rky">
 <img src="https://avatars.githubusercontent.com/u/103370340?v=4" width="50">
 <br />
 0xD4rky
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/GreptimeTeam">
 <img src="https://avatars.githubusercontent.com/u/103400677?v=4" width="50">
 <br />
@@ -6102,14 +6102,14 @@ ericjyli
 total-typescript
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/kubewharf">
 <img src="https://avatars.githubusercontent.com/u/108003076?v=4" width="50">
 <br />
 kubewharf
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/1Panel-dev">
 <img src="https://avatars.githubusercontent.com/u/109613420?v=4" width="50">
 <br />
@@ -6130,14 +6130,14 @@ eunomia-bpf
 zmh-program
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/Ellipsis-Labs">
 <img src="https://avatars.githubusercontent.com/u/113389252?v=4" width="50">
 <br />
 Ellipsis-Labs
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/tembo-io">
 <img src="https://avatars.githubusercontent.com/u/113815875?v=4" width="50">
 <br />
@@ -6158,14 +6158,14 @@ ihmily
 astral-sh
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/extractus">
 <img src="https://avatars.githubusercontent.com/u/119390214?v=4" width="50">
 <br />
 extractus
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/PThorpe92">
 <img src="https://avatars.githubusercontent.com/u/121899304?v=4" width="50">
 <br />
@@ -6186,14 +6186,14 @@ ecodeclub
 easybangumiorg
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/rustnl">
 <img src="https://avatars.githubusercontent.com/u/128693128?v=4" width="50">
 <br />
 rustnl
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/Love-Pengy">
 <img src="https://avatars.githubusercontent.com/u/132213413?v=4" width="50">
 <br />
@@ -6214,14 +6214,14 @@ aiden-lee11
 FasterDecoding
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/hypermodeinc">
 <img src="https://avatars.githubusercontent.com/u/145411033?v=4" width="50">
 <br />
 hypermodeinc
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/easegress-io">
 <img src="https://avatars.githubusercontent.com/u/155644517?v=4" width="50">
 <br />
