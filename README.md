@@ -619,7 +619,7 @@ nelbetancur
 </a>
 </td>
 </tr></table>
-## Following <kbd>823</kbd>
+## Following <kbd>824</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/codahale">
@@ -6380,6 +6380,13 @@ easegress-io
 <img src="https://avatars.githubusercontent.com/u/172280662?v=4" width="50">
 <br />
 trifectatechfoundation
+</a>
+</td>
+<td width='150' align='center'>
+<a href="https://github.com/llm-d">
+<img src="https://avatars.githubusercontent.com/u/211385051?v=4" width="50">
+<br />
+llm-d
 </a>
 </td>
 </tr></table>
