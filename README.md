@@ -1,6 +1,6 @@
 ## XmchxUp
 <img src='https://avatars.githubusercontent.com/u/39235427?v=4' width='120' />
-## Followers <kbd>100</kbd>
+## Followers <kbd>99</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/levonk">
@@ -612,20 +612,13 @@ C-BP
 </a>
 </td>
 <td width='150' align='center'>
-<a href="https://github.com/frieren-mage">
-<img src="https://avatars.githubusercontent.com/u/152053601?v=4" width="50">
-<br />
-frieren-mage
-</a>
-</td>
-</tr><tr><td width='150' align='center'>
 <a href="https://github.com/Iankulani">
 <img src="https://avatars.githubusercontent.com/u/161088906?v=4" width="50">
 <br />
 Iankulani
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/yyle88">
 <img src="https://avatars.githubusercontent.com/u/162403837?v=4" width="50">
 <br />
@@ -646,14 +639,14 @@ IntelC-H
 jmohan57
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/Karan18-hub">
 <img src="https://avatars.githubusercontent.com/u/172292187?v=4" width="50">
 <br />
 Karan18-hub
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/mi6paulino">
 <img src="https://avatars.githubusercontent.com/u/181088958?v=4" width="50">
 <br />
@@ -674,14 +667,14 @@ MdShawonForazi
 nmbetancur
 </a>
 </td>
-</tr><tr><td width='150' align='center'>
+<td width='150' align='center'>
 <a href="https://github.com/uhsr">
 <img src="https://avatars.githubusercontent.com/u/220242888?v=4" width="50">
 <br />
 uhsr
 </a>
 </td>
-<td width='150' align='center'>
+</tr><tr><td width='150' align='center'>
 <a href="https://github.com/kokko22702270">
 <img src="https://avatars.githubusercontent.com/u/222599771?v=4" width="50">
 <br />
