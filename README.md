@@ -1,6 +1,6 @@
 ## XmchxUp
 <img src='https://avatars.githubusercontent.com/u/39235427?v=4' width='120' />
-## Followers <kbd>98</kbd>
+## Followers <kbd>99</kbd>
 <table>
 <tr><td width='150' align='center'>
 <a href="https://github.com/levonk">
@@ -686,6 +686,13 @@ sphinxzerd
 <img src="https://avatars.githubusercontent.com/u/243574314?v=4" width="50">
 <br />
 commitwave
+</a>
+</td>
+<td width='150' align='center'>
+<a href="https://github.com/offsecgit2">
+<img src="https://avatars.githubusercontent.com/u/261461876?v=4" width="50">
+<br />
+offsecgit2
 </a>
 </td>
 </tr></table>
